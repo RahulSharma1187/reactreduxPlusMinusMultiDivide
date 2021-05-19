@@ -1,0 +1,5 @@
+For project Start command
+yarn start
+
+in this project use react redux 
+increment decrement multiple and devide using react redux
